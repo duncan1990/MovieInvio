@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieInvio</string>
+    <string name="main_title">Cinema</string>
+    <string name="searchBar_hint">Enter movie name...</string>
+    <string name="search_btn_title">Search</string>
+    <string name="search_text_null">You didn\'t enter movie name!</string>
+    <string name="error_fail_service_connection">There is problem with service!</string>
+    <string name="textYear">Year:</string>
+    <string name="textCountry">Country:</string>
+    <string name="textImdb">IMDB:</string>
+    <string name="textRotten">Rotten Tomatoes:</string>
+</resources>
